@@ -1,4 +1,9 @@
-vim-diablo
-==========
+# Diablo color schemes
 
-Diablo II color scheme for vim
+Dedicated to the greatest ARPG: Diablo II
+
+### TODO:
+- color scheme for vim
+- color scheme for Terminator
+- color scheme for iTerms2
+- color scheme for ImtelliJ
